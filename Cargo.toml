@@ -1,0 +1,10 @@
+[package]
+name = "link-cut-tree"
+version = "0.1.0"
+authors = ["Sebastian Mendez <skmendez@mit.edu>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+splay = "0.1"
